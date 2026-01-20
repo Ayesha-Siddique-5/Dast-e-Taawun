@@ -1,0 +1,25 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Dast-e-Taawun</string>
+
+    <!-- Request Types for Charity Applications -->
+    <string-array name="request_types">
+        <item>Medical Emergency</item>
+        <item>Education Support</item>
+        <item>Food Assistance</item>
+        <item>Housing Support</item>
+        <item>Emergency Relief</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Item Types for Material Donations -->
+    <string-array name="item_types">
+        <item>Clothing</item>
+        <item>Food Items</item>
+        <item>Household Items</item>
+        <item>Books &amp; Stationery</item>
+        <item>Medical Supplies</item>
+        <item>Toys &amp; Games</item>
+        <item>Other</item>
+    </string-array>
+</resources>
