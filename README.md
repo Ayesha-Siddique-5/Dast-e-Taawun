@@ -7,9 +7,13 @@ The primary objective of Dast-e-Taawun is to make charitable activities more org
 **Key Objectives**
 
 -Facilitate charitable donations and assistance.
+
 -Connect volunteers with relevant community initiatives.
+
 -Provide support to individuals and communities in need.
+
 -Encourage social responsibility and community participation.
+
 -Create a transparent and organized platform for charitable activities.
 
 **Images**
