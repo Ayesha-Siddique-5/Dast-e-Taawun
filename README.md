@@ -1,9 +1,11 @@
 **Dast-e-Taawun**
+
 Dast-e-Taawun (دستِ تعاون), meaning “Helping Hand,” is an Android-based mobile application developed to facilitate charity, volunteering, and community cooperation. The application aims to establish a digital connection between donors, volunteers, and individuals in need, providing a structured and accessible platform for offering and receiving assistance.
 
 The primary objective of Dast-e-Taawun is to make charitable activities more organized, transparent, and accessible through technology. The application enables users to participate in charitable initiatives, contribute to community welfare, and connect with individuals or organizations requiring support.
 
 **Key Objectives**
+
 -Facilitate charitable donations and assistance.
 -Connect volunteers with relevant community initiatives.
 -Provide support to individuals and communities in need.
@@ -11,6 +13,7 @@ The primary objective of Dast-e-Taawun is to make charitable activities more org
 -Create a transparent and organized platform for charitable activities.
 
 **Images**
+
 <img width="744" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2f76dd7-b4a8-464d-84db-bf6d7b923a54" />
 
 ### Opening page
