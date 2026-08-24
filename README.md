@@ -23,7 +23,7 @@ The primary objective of Dast-e-Taawun is to make charitable activities more org
 <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/8da44c0a-2c42-4f0c-abfd-c66e4116f876" />
 
 ### Create Account
-<img width="250" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b25e9da-cff7-48a0-95c8-1ae51e89d8c3" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/1b25e9da-cff7-48a0-95c8-1ae51e89d8c3" />
 
 ### Home Page
 <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/6039e646-458c-493c-9241-cc258346434e" />
